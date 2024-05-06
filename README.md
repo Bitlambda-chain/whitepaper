@@ -1,0 +1,2 @@
+# whitepaper
+lambada paradigm whitepaper
