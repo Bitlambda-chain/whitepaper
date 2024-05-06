@@ -1,4 +1,8 @@
 # whitepaper
+ A New Blockchain Based on a P2P Dynamically Programmable Incentive Protocol
+
+Abstract:
+
 The essence of economics can be succinctly summarized as: "People respond to incentives. The rest is merely explanation." (1)
 
 Blockchain represents a novel method of organizing societal resources, redefining the propositions of "what incentives to use" and "what to incentivize."
